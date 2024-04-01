@@ -71,3 +71,7 @@ The white background image and the original image with the foreground are combin
 
 #### Display Results
 The function plots two images side by side: the original image and the image with the segmented foreground over a white background. This visualization helps to compare the segmentation result with the original image.
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/license/MIT)- see the LICENSE file for details.
+
